@@ -1,7 +1,7 @@
 Performance comparison between [LESS], [Ruby-Sass] and [Libsass][libsass]
 ------------------------------------------------------------------------------------
 
-This will process [bootstrap] v3.3.6 `less` and `scss` files using Grunt Task Runner with different pre-processors, then compare each one is the fastest.
+This will process [bootstrap] v3.3.6 `less` and `scss` files using Grunt Task Runner with different CSS pre-processors, then compare each one is the fastest.
 
 ### Dependencies:
 
