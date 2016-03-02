@@ -1,0 +1,22 @@
+{
+  "name": "benchless",
+  "version": "0.1.0",
+  "homepage": "https://github.com/adrianorsouza/benchless",
+  "authors": [
+    "Adriano Rosa <info@adrianorosa.com>"
+  ],
+  "description": "A benchmark against LESS x SASS x LIBSASS",
+  "main": "dist/app.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "bootstrap-sass-official": "~3.3.6"
+  }
+}
