@@ -16,9 +16,10 @@ Results:
 
 |**Pre-Processor**  | elapsed time            |
 |-------------------|-------------------------|
+|**Libsass**        | `Completed in 0.608s`   |
 |**LESS**           | `Completed in 1.643s`   |
 |**Ruby-sass:**     | `Completed in 3.659s`   |
-|**Libsass**        | `Completed in 0.608s`   |
+
 
 
 ## Setup environment
